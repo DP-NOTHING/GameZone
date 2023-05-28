@@ -31,11 +31,11 @@ Aim Training
 <br>
 
 ## **Screenshots 📸**
-
+![Game image](../../assets/images/Aim_Training.png)
 <br>
 <!-- add your screenshots like this -->
 <!-- ![image](url) -->
-    ![Game image](../../assets/images/Aim_Training.png)
+    
 <br>
 
 
